@@ -67,5 +67,61 @@
         "mainFile": "src/components/ParentUserForm.js",
         "origin": "AUTHORED"
     },
+    "ahkyhabib.contact/ui/header@1.0.0": {
+        "files": [
+            {
+                "name": "Header.js",
+                "relativePath": "Header.js",
+                "test": false
+            }
+        ],
+        "mainFile": "Header.js",
+        "rootDir": "components/ui/header",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/components"
+    },
+    "ahkyhabib.contact/ui/contact@1.0.0": {
+        "files": [
+            {
+                "name": "Contact.js",
+                "relativePath": "Contact.js",
+                "test": false
+            }
+        ],
+        "mainFile": "Contact.js",
+        "rootDir": "components/ui/contact",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/components"
+    },
+    "ahkyhabib.contact/src/context@1.0.0": {
+        "files": [
+            {
+                "name": "context.js",
+                "relativePath": "context.js",
+                "test": false
+            }
+        ],
+        "mainFile": "context.js",
+        "rootDir": "components/src/context",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src"
+    },
+    "ahkyhabib.contact/ui/contacts@1.0.0": {
+        "files": [
+            {
+                "name": "Contacts.js",
+                "relativePath": "components/Contacts.js",
+                "test": false
+            }
+        ],
+        "mainFile": "components/Contacts.js",
+        "rootDir": "components/ui/contacts",
+        "origin": "IMPORTED",
+        "dependencies": [
+            "ahkyhabib.contact/ui/contact@1.0.0",
+            "ahkyhabib.contact/src/context@1.0.0"
+        ],
+        "originallySharedDir": "src"
+    },
     "version": "13.0.4"
 }

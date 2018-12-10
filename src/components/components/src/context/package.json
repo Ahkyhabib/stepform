@@ -1,0 +1,10 @@
+{
+  "name": "@bit/ahkyhabib.contact.src.context",
+  "version": "1.0.0",
+  "homepage": "https://bitsrc.io/ahkyhabib/contact/src/context",
+  "main": "context.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE"
+}
